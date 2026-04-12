@@ -1,4 +1,4 @@
-# Deep Inspector - Linux Threat Monitoring Tool
+# Threat - Eye - Linux Threat Monitoring Tool
 
 A comprehensive Linux monitoring and threat detection tool with a graphical user interface.
 
